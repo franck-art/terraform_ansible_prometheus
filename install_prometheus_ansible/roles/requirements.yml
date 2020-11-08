@@ -1,4 +1,7 @@
-# ansible-galaxy role install -r requirements.yml
+# ansible-galaxy role install -r roles/requirements.yml
 
-# install docker
+# install prometheus
 - src: cloudalchemy.prometheus
+
+# install node_exporter
+- src: geerlingguy.node_exporter

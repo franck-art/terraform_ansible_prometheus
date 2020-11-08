@@ -1,34 +1,5 @@
-/*variable "instance_name" {
-type = string
-description = "TODO"
-}
-variable "instance_machine_type" {
-type = string
-description = "TODO"
-}
-variable "instance_zone" {
-type = string
-description = "TODO"
-}
-variable "instance_image" {
-type = string
-description = "TODO"
-}
-variable "instance_interface_disk" {
-type = string
-description = "TODO"
-}
-variable "instance_network" {
-type = string
-description = "TODO"
-}
-variable "meta_env" {
-type = string
-description = "TODO"
-}
-*/
 variable "var_instance"{
-  description = ""
+  description = "TODO"
   type = object({
           instance_name           = string
           instance_machine_type   = string

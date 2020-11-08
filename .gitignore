@@ -1,4 +1,5 @@
 account.json
 .terraform
 terraform.tfstate.*
+terraform.tfstate.*
 devops_key.pem

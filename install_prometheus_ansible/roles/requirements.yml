@@ -1,0 +1,4 @@
+# ansible-galaxy role install -r requirements.yml
+
+# install docker
+- src: cloudalchemy.prometheus

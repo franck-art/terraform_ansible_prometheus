@@ -1,0 +1,6 @@
+// pip3 install -r requirement.txt  --user
+ansible==2.9.0
+requests==2.23.0
+google-auth==1.16.1
+ansible-lint==4.1.0
+jmespath==0.2.0
